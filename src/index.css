@@ -5,9 +5,14 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
+background-image: linear-gradient(to right top, #b8d8b4, #a7dd9f, #95e188, #83e56e, #6ee851, #76e942, #7fea2f, #89eb10, #a8ea20, #c2e931, #d8e942, #ebe853);}
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.fancyImage{
+   background-color: gba(241,231,103,1);
+   padding: 5px;
 }
