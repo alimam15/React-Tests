@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/alimam15/React-Tests.git/static/css/main.7255cc43.chunk.css",
+    "main.js": "/alimam15/React-Tests.git/static/js/main.cd9fa450.chunk.js",
+    "main.js.map": "/alimam15/React-Tests.git/static/js/main.cd9fa450.chunk.js.map",
+    "runtime-main.js": "/alimam15/React-Tests.git/static/js/runtime-main.63adca1a.js",
+    "runtime-main.js.map": "/alimam15/React-Tests.git/static/js/runtime-main.63adca1a.js.map",
+    "static/css/2.299a5230.chunk.css": "/alimam15/React-Tests.git/static/css/2.299a5230.chunk.css",
+    "static/js/2.f3903a4a.chunk.js": "/alimam15/React-Tests.git/static/js/2.f3903a4a.chunk.js",
+    "static/js/2.f3903a4a.chunk.js.map": "/alimam15/React-Tests.git/static/js/2.f3903a4a.chunk.js.map",
+    "index.html": "/alimam15/React-Tests.git/index.html",
+    "precache-manifest.1c33ac80180c96c5237ca0428012da9a.js": "/alimam15/React-Tests.git/precache-manifest.1c33ac80180c96c5237ca0428012da9a.js",
+    "service-worker.js": "/alimam15/React-Tests.git/service-worker.js",
+    "static/css/2.299a5230.chunk.css.map": "/alimam15/React-Tests.git/static/css/2.299a5230.chunk.css.map",
+    "static/css/main.7255cc43.chunk.css.map": "/alimam15/React-Tests.git/static/css/main.7255cc43.chunk.css.map",
+    "static/media/zombie1.jpg": "/alimam15/React-Tests.git/static/media/zombie1.1644f7a9.jpg",
+    "static/media/zombie10.jpg": "/alimam15/React-Tests.git/static/media/zombie10.ff80d5c0.jpg",
+    "static/media/zombie2.jpg": "/alimam15/React-Tests.git/static/media/zombie2.3ab009d8.jpg",
+    "static/media/zombie3.jpg": "/alimam15/React-Tests.git/static/media/zombie3.402f4d93.jpg",
+    "static/media/zombie4.jpg": "/alimam15/React-Tests.git/static/media/zombie4.b006dc9d.jpg",
+    "static/media/zombie5.jpg": "/alimam15/React-Tests.git/static/media/zombie5.7a27d712.jpg",
+    "static/media/zombie6.jpg": "/alimam15/React-Tests.git/static/media/zombie6.12a6e3ac.jpg",
+    "static/media/zombie7.jpg": "/alimam15/React-Tests.git/static/media/zombie7.9add9c71.jpg",
+    "static/media/zombie8.jpg": "/alimam15/React-Tests.git/static/media/zombie8.20b5e908.jpg",
+    "static/media/zombie9.jpg": "/alimam15/React-Tests.git/static/media/zombie9.f0ea1e43.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63adca1a.js",
+    "static/css/2.299a5230.chunk.css",
+    "static/js/2.f3903a4a.chunk.js",
+    "static/css/main.7255cc43.chunk.css",
+    "static/js/main.cd9fa450.chunk.js"
+  ]
+}
